@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW-Tester</string>
+    <string name="bluetooth_disabled">Bluetooth disabled</string>
+    <string name="bluetooth_enabled">Bluetooth enabled</string>
+    <string name="bt_not_supported">Bluetooth is not supported on your device</string>
+    <string name="bluetooth_not_enabled">Bluetooth not enabled</string>
+    <string name="location_permission_rationale">Location permission required to show nearby devices</string>
+    <string name="grant">Grant</string>
+    <string name="receive">Receive</string>
+    <string name="send">Send</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="wifi_disabled">WiFi disabled</string>
+    <string name="wifi_enabled">WiFi enabled</string>
+    <string name="connect">Connect</string>
+</resources>
